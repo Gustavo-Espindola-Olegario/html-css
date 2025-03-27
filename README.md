@@ -30,3 +30,5 @@
 <a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex014/" target="_blank">Exercicio 014</a>
 
 <a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex015/" target="_blank">Exercicio 015</a>
+
+<a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex016/cor01.html" target="_blank">Exercicio 016</a>

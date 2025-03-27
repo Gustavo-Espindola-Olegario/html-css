@@ -20,3 +20,13 @@
 <a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex009/" target="_blank">Exercicio 009</a>
 
 <a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex010/" target="_blank">Exercicio 010</a>
+
+<a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex011/" target="_blank">Exercicio 011</a>
+
+<a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex012/" target="_blank">Exercicio 012</a>
+
+<a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex013/" target="_blank">Exercicio 013</a>
+
+<a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex014/" target="_blank">Exercicio 014</a>
+
+<a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex015/" target="_blank">Exercicio 015</a>

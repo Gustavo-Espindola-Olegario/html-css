@@ -32,3 +32,13 @@
 <a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex015/" target="_blank">Exercicio 015</a>
 
 <a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex016/cor01.html" target="_blank">Exercicio 016</a>
+
+<a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex017/alinhamentos.html" target="_blank">Exercicio 017</a>
+
+<a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex018/fonte01.html" target="_blank">Exercicio 018</a>
+
+<a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex019/seletor01.html" target="_blank">Exercicio 019</a>
+
+<a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex020/hover.html" target="_blank">Exercicio 020</a>
+
+<a href="https://gustavo-espindola-olegario.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank">Exercicio 021</a>
